@@ -90,7 +90,7 @@ sim_rogers <- function(
 
 	return(history)
 
-# end of sim_rogers
+}# end of sim_rogers
 
 h <- sim_rogers( u=0.2 , b=3 , c=1 , s=1 )
 
